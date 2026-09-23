@@ -1,0 +1,19 @@
+{
+  "name": "uxia",
+  "version": "1.0.0",
+  "description": "Connect to Uxia to design AI user tests, preview launches, and explore research results in your workspace.",
+  "author": {
+    "name": "Uxia",
+    "email": "hello@uxia.app"
+  },
+  "homepage": "https://uxia.app",
+  "repository": "https://github.com/uxia-team/uxia-mcp",
+  "license": "MIT",
+  "keywords": [
+    "ux-research",
+    "user-testing",
+    "mcp"
+  ],
+  "logo": "assets/uxia-logo.svg",
+  "mcpServers": "mcp.json"
+}

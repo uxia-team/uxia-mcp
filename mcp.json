@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "uxia": {
+      "url": "https://platform.uxia.app/api/mcp-v2/mcp"
+    }
+  }
+}
